@@ -1,0 +1,16 @@
+﻿fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+python-dotenv
+pydantic
+pydantic-settings
+python-multipart
+PyMuPDF
+python-docx
+spacy
+sentence-transformers
+torch
+scikit-learn
+PyJWT
+passlib[bcrypt]
